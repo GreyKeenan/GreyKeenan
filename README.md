@@ -3,8 +3,8 @@
 
 * I enjoy C, and Go seems pretty smooth.
 * Recently graduated with a Software Developer AAS from Hennepin Tech!
+* Currently pursuing a math degree.
 * Also, I like card games. [Check out mine or else.](https://greykeenan.github.io/dukesup)
-* Anyways, I guess it's finally time to head out into the world and find a job.
 
 `( ^-^)/`
 
